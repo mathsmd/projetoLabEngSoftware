@@ -1,0 +1,74 @@
+(17/09/2025 11:11:02) Início - Validação da Planilha
+(17/09/2025 11:11:02) Sucesso - Validação da Planilha
+(17/09/2025 11:11:02) Início - Consulta Brasil API
+(17/09/2025 11:11:03) Sucesso - Consulta Brasil API concluída para CNPJ: 69030377000190
+(17/09/2025 11:11:03) Início - Consulta Brasil API
+(17/09/2025 11:11:03) Sucesso - Consulta Brasil API concluída para CNPJ: 09389786000155
+(17/09/2025 11:11:03) Início - Consulta Brasil API
+(17/09/2025 11:11:04) Sucesso - Consulta Brasil API concluída para CNPJ: 14104964000194
+(17/09/2025 11:11:04) Início - Consulta Brasil API
+(17/09/2025 11:11:05) Sucesso - Consulta Brasil API concluída para CNPJ: 13878352000196
+(17/09/2025 11:11:05) Início - Consulta Brasil API
+(17/09/2025 11:11:06) Sucesso - Consulta Brasil API concluída para CNPJ: 03235566000190
+(17/09/2025 11:11:06) Início - Consulta Brasil API
+(17/09/2025 11:11:07) Sucesso - Consulta Brasil API concluída para CNPJ: 67428110000120
+(17/09/2025 11:11:07) Início - Consulta Brasil API
+(17/09/2025 11:11:08) Sucesso - Consulta Brasil API concluída para CNPJ: 05138689000139
+(17/09/2025 11:11:08) Início - Consulta Brasil API
+(17/09/2025 11:11:08) Sucesso - Consulta Brasil API concluída para CNPJ: 24824981000150
+(17/09/2025 11:11:08) Início - Consulta Brasil API
+(17/09/2025 11:11:09) Sucesso - Consulta Brasil API concluída para CNPJ: 02828446000134
+(17/09/2025 11:11:09) Início - Consulta Brasil API
+(17/09/2025 11:11:11) Sucesso - Consulta Brasil API concluída para CNPJ: 72610132000146
+(17/09/2025 11:11:11) Início - Consulta Brasil API
+(17/09/2025 11:11:12) Sucesso - Consulta Brasil API concluída para CNPJ: 86394525000174
+(17/09/2025 11:11:12) Início - Consulta Brasil API
+(17/09/2025 11:11:12) Sucesso - Consulta Brasil API concluída para CNPJ: 51062437000190
+(17/09/2025 11:11:12) Início - Consulta Brasil API
+(17/09/2025 11:11:13) Sucesso - Consulta Brasil API concluída para CNPJ: 72610132000146
+(17/09/2025 11:11:13) Início - Consulta Brasil API
+(17/09/2025 11:11:13) Falha - Consulta Brasil API. Motivo: CNPJ inválido
+(17/09/2025 11:11:13) Início - Consulta Brasil API
+(17/09/2025 11:11:14) Sucesso - Consulta Brasil API concluída para CNPJ: 38062195000177
+(17/09/2025 11:11:14) Início - Consulta Brasil API
+(17/09/2025 11:11:15) Falha - Consulta Brasil API. Motivo: CNPJ não encontrado
+(17/09/2025 11:11:15) Início - Gerar Planilha Final
+(17/09/2025 11:11:15) Sucesso - Gerar Planilha Final
+(17/09/2025 11:11:15) Planilha final salva em saida_final.xlsx com 16 registros.
+(17/09/2025 11:15:47) Início - Validação da Planilha
+(17/09/2025 11:15:47) Sucesso - Validação da Planilha
+(17/09/2025 11:15:47) Início - Consulta Brasil API
+(17/09/2025 11:15:48) Sucesso - Consulta Brasil API concluída para CNPJ: 69030377000190
+(17/09/2025 11:15:48) Início - Consulta Brasil API
+(17/09/2025 11:15:48) Sucesso - Consulta Brasil API concluída para CNPJ: 09389786000155
+(17/09/2025 11:15:48) Início - Consulta Brasil API
+(17/09/2025 11:15:49) Sucesso - Consulta Brasil API concluída para CNPJ: 14104964000194
+(17/09/2025 11:15:49) Início - Consulta Brasil API
+(17/09/2025 11:15:49) Sucesso - Consulta Brasil API concluída para CNPJ: 13878352000196
+(17/09/2025 11:15:49) Início - Consulta Brasil API
+(17/09/2025 11:15:50) Sucesso - Consulta Brasil API concluída para CNPJ: 03235566000190
+(17/09/2025 11:15:50) Início - Consulta Brasil API
+(17/09/2025 11:15:51) Sucesso - Consulta Brasil API concluída para CNPJ: 67428110000120
+(17/09/2025 11:15:51) Início - Consulta Brasil API
+(17/09/2025 11:15:51) Sucesso - Consulta Brasil API concluída para CNPJ: 05138689000139
+(17/09/2025 11:15:51) Início - Consulta Brasil API
+(17/09/2025 11:15:52) Sucesso - Consulta Brasil API concluída para CNPJ: 24824981000150
+(17/09/2025 11:15:52) Início - Consulta Brasil API
+(17/09/2025 11:15:53) Sucesso - Consulta Brasil API concluída para CNPJ: 02828446000134
+(17/09/2025 11:15:53) Início - Consulta Brasil API
+(17/09/2025 11:15:53) Sucesso - Consulta Brasil API concluída para CNPJ: 72610132000146
+(17/09/2025 11:15:53) Início - Consulta Brasil API
+(17/09/2025 11:15:54) Sucesso - Consulta Brasil API concluída para CNPJ: 86394525000174
+(17/09/2025 11:15:54) Início - Consulta Brasil API
+(17/09/2025 11:15:55) Sucesso - Consulta Brasil API concluída para CNPJ: 51062437000190
+(17/09/2025 11:15:55) Início - Consulta Brasil API
+(17/09/2025 11:15:56) Sucesso - Consulta Brasil API concluída para CNPJ: 72610132000146
+(17/09/2025 11:15:56) Início - Consulta Brasil API
+(17/09/2025 11:15:56) Falha - Consulta Brasil API. Motivo: CNPJ inválido
+(17/09/2025 11:15:56) Início - Consulta Brasil API
+(17/09/2025 11:15:57) Sucesso - Consulta Brasil API concluída para CNPJ: 38062195000177
+(17/09/2025 11:15:57) Início - Consulta Brasil API
+(17/09/2025 11:15:57) Falha - Consulta Brasil API. Motivo: CNPJ não encontrado
+(17/09/2025 11:15:57) Início - Gerar Planilha Final
+(17/09/2025 11:15:57) Sucesso - Gerar Planilha Final
+(17/09/2025 11:15:57) Planilha final salva em saida_final.xlsx com 16 registros.

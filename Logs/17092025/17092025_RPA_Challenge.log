@@ -1,0 +1,110 @@
+(17/09/2025 11:11:15) Início - Processando 16 registros
+(17/09/2025 11:11:15) Início - Acessando o site do RPA Challenge
+(17/09/2025 11:11:21) Início - Clicando no Botao Start
+(17/09/2025 11:11:23) Sucesso - Desafio iniciado
+(17/09/2025 11:11:23) Início - Preenchendo formulario 1/16
+(17/09/2025 11:11:23) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:23) Falha - Formulario 1. Motivo: Erro no preenchimento
+(17/09/2025 11:11:23) Início - Preenchendo formulario 2/16
+(17/09/2025 11:11:23) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:23) Falha - Formulario 2. Motivo: Erro no preenchimento
+(17/09/2025 11:11:23) Início - Preenchendo formulario 3/16
+(17/09/2025 11:11:23) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:23) Falha - Formulario 3. Motivo: Erro no preenchimento
+(17/09/2025 11:11:23) Início - Preenchendo formulario 4/16
+(17/09/2025 11:11:23) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:23) Falha - Formulario 4. Motivo: Erro no preenchimento
+(17/09/2025 11:11:23) Início - Preenchendo formulario 5/16
+(17/09/2025 11:11:23) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:23) Falha - Formulario 5. Motivo: Erro no preenchimento
+(17/09/2025 11:11:23) Início - Preenchendo formulario 6/16
+(17/09/2025 11:11:23) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:23) Falha - Formulario 6. Motivo: Erro no preenchimento
+(17/09/2025 11:11:23) Início - Preenchendo formulario 7/16
+(17/09/2025 11:11:23) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:23) Falha - Formulario 7. Motivo: Erro no preenchimento
+(17/09/2025 11:11:23) Início - Preenchendo formulario 8/16
+(17/09/2025 11:11:23) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:23) Falha - Formulario 8. Motivo: Erro no preenchimento
+(17/09/2025 11:11:23) Início - Preenchendo formulario 9/16
+(17/09/2025 11:11:23) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:23) Falha - Formulario 9. Motivo: Erro no preenchimento
+(17/09/2025 11:11:23) Início - Preenchendo formulario 10/16
+(17/09/2025 11:11:23) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:23) Falha - Formulario 10. Motivo: Erro no preenchimento
+(17/09/2025 11:11:23) Início - Reiniciando desafio apos 10 formulários
+(17/09/2025 11:11:28) Sucesso - Desafio reiniciado
+(17/09/2025 11:11:28) Início - Preenchendo formulario 11/16
+(17/09/2025 11:11:28) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:28) Falha - Formulario 11. Motivo: Erro no preenchimento
+(17/09/2025 11:11:28) Início - Preenchendo formulario 12/16
+(17/09/2025 11:11:28) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:28) Falha - Formulario 12. Motivo: Erro no preenchimento
+(17/09/2025 11:11:28) Início - Preenchendo formulario 13/16
+(17/09/2025 11:11:28) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:28) Falha - Formulario 13. Motivo: Erro no preenchimento
+(17/09/2025 11:11:28) Início - Preenchendo formulario 14/16
+(17/09/2025 11:11:28) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:28) Falha - Formulario 14. Motivo: Erro no preenchimento
+(17/09/2025 11:11:28) Início - Preenchendo formulario 15/16
+(17/09/2025 11:11:28) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:28) Falha - Formulario 15. Motivo: Erro no preenchimento
+(17/09/2025 11:11:28) Início - Preenchendo formulario 16/16
+(17/09/2025 11:11:28) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:11:28) Falha - Formulario 16. Motivo: Erro no preenchimento
+(17/09/2025 11:11:28) Sucesso - Processamento concluido: Sucessos=0, Falhas=16
+(17/09/2025 11:15:57) Início - Processando 16 registros
+(17/09/2025 11:15:57) Início - Acessando o site do RPA Challenge
+(17/09/2025 11:16:04) Início - Clicando no Botao Start
+(17/09/2025 11:16:06) Sucesso - Desafio iniciado
+(17/09/2025 11:16:06) Início - Preenchendo formulario 1/16
+(17/09/2025 11:16:06) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:06) Falha - Formulario 1. Motivo: Erro no preenchimento
+(17/09/2025 11:16:06) Início - Preenchendo formulario 2/16
+(17/09/2025 11:16:06) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:06) Falha - Formulario 2. Motivo: Erro no preenchimento
+(17/09/2025 11:16:06) Início - Preenchendo formulario 3/16
+(17/09/2025 11:16:06) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:06) Falha - Formulario 3. Motivo: Erro no preenchimento
+(17/09/2025 11:16:06) Início - Preenchendo formulario 4/16
+(17/09/2025 11:16:06) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:06) Falha - Formulario 4. Motivo: Erro no preenchimento
+(17/09/2025 11:16:06) Início - Preenchendo formulario 5/16
+(17/09/2025 11:16:06) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:06) Falha - Formulario 5. Motivo: Erro no preenchimento
+(17/09/2025 11:16:06) Início - Preenchendo formulario 6/16
+(17/09/2025 11:16:06) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:06) Falha - Formulario 6. Motivo: Erro no preenchimento
+(17/09/2025 11:16:06) Início - Preenchendo formulario 7/16
+(17/09/2025 11:16:06) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:06) Falha - Formulario 7. Motivo: Erro no preenchimento
+(17/09/2025 11:16:06) Início - Preenchendo formulario 8/16
+(17/09/2025 11:16:06) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:06) Falha - Formulario 8. Motivo: Erro no preenchimento
+(17/09/2025 11:16:06) Início - Preenchendo formulario 9/16
+(17/09/2025 11:16:06) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:06) Falha - Formulario 9. Motivo: Erro no preenchimento
+(17/09/2025 11:16:06) Início - Preenchendo formulario 10/16
+(17/09/2025 11:16:06) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:06) Falha - Formulario 10. Motivo: Erro no preenchimento
+(17/09/2025 11:16:06) Início - Reiniciando desafio apos 10 formulários
+(17/09/2025 11:16:11) Sucesso - Desafio reiniciado
+(17/09/2025 11:16:11) Início - Preenchendo formulario 11/16
+(17/09/2025 11:16:11) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:11) Falha - Formulario 11. Motivo: Erro no preenchimento
+(17/09/2025 11:16:11) Início - Preenchendo formulario 12/16
+(17/09/2025 11:16:11) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:11) Falha - Formulario 12. Motivo: Erro no preenchimento
+(17/09/2025 11:16:11) Início - Preenchendo formulario 13/16
+(17/09/2025 11:16:11) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:11) Falha - Formulario 13. Motivo: Erro no preenchimento
+(17/09/2025 11:16:11) Início - Preenchendo formulario 14/16
+(17/09/2025 11:16:11) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:11) Falha - Formulario 14. Motivo: Erro no preenchimento
+(17/09/2025 11:16:11) Início - Preenchendo formulario 15/16
+(17/09/2025 11:16:11) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:11) Falha - Formulario 15. Motivo: Erro no preenchimento
+(17/09/2025 11:16:11) Início - Preenchendo formulario 16/16
+(17/09/2025 11:16:11) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(17/09/2025 11:16:11) Falha - Formulario 16. Motivo: Erro no preenchimento
+(17/09/2025 11:16:11) Sucesso - Processamento concluido: Sucessos=0, Falhas=16

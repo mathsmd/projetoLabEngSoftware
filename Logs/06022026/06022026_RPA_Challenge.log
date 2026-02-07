@@ -1,0 +1,110 @@
+(06/02/2026 16:21:07) Início - Processando 16 registros
+(06/02/2026 16:21:07) Início - Acessando o site do RPA Challenge
+(06/02/2026 16:21:35) Início - Clicando no Botao Start
+(06/02/2026 16:21:37) Sucesso - Desafio iniciado
+(06/02/2026 16:21:37) Início - Preenchendo formulario 1/16
+(06/02/2026 16:21:37) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:37) Falha - Formulario 1. Motivo: Erro no preenchimento
+(06/02/2026 16:21:37) Início - Preenchendo formulario 2/16
+(06/02/2026 16:21:37) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:37) Falha - Formulario 2. Motivo: Erro no preenchimento
+(06/02/2026 16:21:37) Início - Preenchendo formulario 3/16
+(06/02/2026 16:21:37) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:37) Falha - Formulario 3. Motivo: Erro no preenchimento
+(06/02/2026 16:21:37) Início - Preenchendo formulario 4/16
+(06/02/2026 16:21:37) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:37) Falha - Formulario 4. Motivo: Erro no preenchimento
+(06/02/2026 16:21:37) Início - Preenchendo formulario 5/16
+(06/02/2026 16:21:37) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:37) Falha - Formulario 5. Motivo: Erro no preenchimento
+(06/02/2026 16:21:37) Início - Preenchendo formulario 6/16
+(06/02/2026 16:21:37) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:37) Falha - Formulario 6. Motivo: Erro no preenchimento
+(06/02/2026 16:21:37) Início - Preenchendo formulario 7/16
+(06/02/2026 16:21:37) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:37) Falha - Formulario 7. Motivo: Erro no preenchimento
+(06/02/2026 16:21:37) Início - Preenchendo formulario 8/16
+(06/02/2026 16:21:37) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:37) Falha - Formulario 8. Motivo: Erro no preenchimento
+(06/02/2026 16:21:37) Início - Preenchendo formulario 9/16
+(06/02/2026 16:21:37) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:37) Falha - Formulario 9. Motivo: Erro no preenchimento
+(06/02/2026 16:21:37) Início - Preenchendo formulario 10/16
+(06/02/2026 16:21:37) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:37) Falha - Formulario 10. Motivo: Erro no preenchimento
+(06/02/2026 16:21:37) Início - Reiniciando desafio apos 10 formulários
+(06/02/2026 16:21:43) Sucesso - Desafio reiniciado
+(06/02/2026 16:21:43) Início - Preenchendo formulario 11/16
+(06/02/2026 16:21:43) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:43) Falha - Formulario 11. Motivo: Erro no preenchimento
+(06/02/2026 16:21:43) Início - Preenchendo formulario 12/16
+(06/02/2026 16:21:43) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:43) Falha - Formulario 12. Motivo: Erro no preenchimento
+(06/02/2026 16:21:43) Início - Preenchendo formulario 13/16
+(06/02/2026 16:21:43) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:43) Falha - Formulario 13. Motivo: Erro no preenchimento
+(06/02/2026 16:21:43) Início - Preenchendo formulario 14/16
+(06/02/2026 16:21:43) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:43) Falha - Formulario 14. Motivo: Erro no preenchimento
+(06/02/2026 16:21:43) Início - Preenchendo formulario 15/16
+(06/02/2026 16:21:43) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:43) Falha - Formulario 15. Motivo: Erro no preenchimento
+(06/02/2026 16:21:43) Início - Preenchendo formulario 16/16
+(06/02/2026 16:21:43) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:21:43) Falha - Formulario 16. Motivo: Erro no preenchimento
+(06/02/2026 16:21:43) Sucesso - Processamento concluido: Sucessos=0, Falhas=16
+(06/02/2026 16:34:11) Início - Processando 16 registros
+(06/02/2026 16:34:11) Início - Acessando o site do RPA Challenge
+(06/02/2026 16:34:18) Início - Clicando no Botao Start
+(06/02/2026 16:34:20) Sucesso - Desafio iniciado
+(06/02/2026 16:34:20) Início - Preenchendo formulario 1/16
+(06/02/2026 16:34:20) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:20) Falha - Formulario 1. Motivo: Erro no preenchimento
+(06/02/2026 16:34:20) Início - Preenchendo formulario 2/16
+(06/02/2026 16:34:20) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:20) Falha - Formulario 2. Motivo: Erro no preenchimento
+(06/02/2026 16:34:20) Início - Preenchendo formulario 3/16
+(06/02/2026 16:34:20) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:20) Falha - Formulario 3. Motivo: Erro no preenchimento
+(06/02/2026 16:34:20) Início - Preenchendo formulario 4/16
+(06/02/2026 16:34:20) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:20) Falha - Formulario 4. Motivo: Erro no preenchimento
+(06/02/2026 16:34:20) Início - Preenchendo formulario 5/16
+(06/02/2026 16:34:20) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:20) Falha - Formulario 5. Motivo: Erro no preenchimento
+(06/02/2026 16:34:20) Início - Preenchendo formulario 6/16
+(06/02/2026 16:34:20) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:20) Falha - Formulario 6. Motivo: Erro no preenchimento
+(06/02/2026 16:34:20) Início - Preenchendo formulario 7/16
+(06/02/2026 16:34:20) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:20) Falha - Formulario 7. Motivo: Erro no preenchimento
+(06/02/2026 16:34:20) Início - Preenchendo formulario 8/16
+(06/02/2026 16:34:20) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:20) Falha - Formulario 8. Motivo: Erro no preenchimento
+(06/02/2026 16:34:20) Início - Preenchendo formulario 9/16
+(06/02/2026 16:34:20) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:20) Falha - Formulario 9. Motivo: Erro no preenchimento
+(06/02/2026 16:34:20) Início - Preenchendo formulario 10/16
+(06/02/2026 16:34:20) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:20) Falha - Formulario 10. Motivo: Erro no preenchimento
+(06/02/2026 16:34:20) Início - Reiniciando desafio apos 10 formulários
+(06/02/2026 16:34:25) Sucesso - Desafio reiniciado
+(06/02/2026 16:34:25) Início - Preenchendo formulario 11/16
+(06/02/2026 16:34:25) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:25) Falha - Formulario 11. Motivo: Erro no preenchimento
+(06/02/2026 16:34:25) Início - Preenchendo formulario 12/16
+(06/02/2026 16:34:25) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:25) Falha - Formulario 12. Motivo: Erro no preenchimento
+(06/02/2026 16:34:25) Início - Preenchendo formulario 13/16
+(06/02/2026 16:34:25) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:25) Falha - Formulario 13. Motivo: Erro no preenchimento
+(06/02/2026 16:34:25) Início - Preenchendo formulario 14/16
+(06/02/2026 16:34:25) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:25) Falha - Formulario 14. Motivo: Erro no preenchimento
+(06/02/2026 16:34:25) Início - Preenchendo formulario 15/16
+(06/02/2026 16:34:25) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:25) Falha - Formulario 15. Motivo: Erro no preenchimento
+(06/02/2026 16:34:25) Início - Preenchendo formulario 16/16
+(06/02/2026 16:34:25) Falha - Preencher formulario. Motivo: 'RAZAO SOCIAL'
+(06/02/2026 16:34:25) Falha - Formulario 16. Motivo: Erro no preenchimento
+(06/02/2026 16:34:25) Sucesso - Processamento concluido: Sucessos=0, Falhas=16

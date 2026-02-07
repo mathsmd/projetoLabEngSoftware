@@ -1,6 +1,7 @@
 # Imports
 # ==========================================
 import pandas as pd
+import threading
 import os
 import yagmail
 from dotenv import load_dotenv
@@ -27,10 +28,12 @@ from utils.planilha_final import PlanilhaFinal
 from services.brasil_api import BrasilAPI
 from services.RPAChallenge import RPAChallenge
 from CotacaoCorreios import CotacaoCorreios
+from front.interface import Interface
 from formatar_planilha import formatar_planilha
 from jadlog import executar_simulacao
 
 
+interface = Interface()
 
 # Configuração Maestro
 BotMaestroSDK.RAISE_NOT_CONNECTED = False
@@ -103,33 +106,38 @@ def main():
     desktop_bot = DesktopBot()
     webbot = WebBot()
     webbot.headless = False
-    webbot.driver_path = r"C:\ProjetoFinalCompass\resources\chromedriver-win64\chromedriver.exe"
+    # webbot.driver_path = r"C:\ProjetoFinalCompass\resources\chromedriver-win64\chromedriver.exe"
+    webbot.driver_path = r"C:\projetoLabEngSoftware\resources\chromedriver-win64\chromedriver.exe"
 
     # Logger
     logger = LoggerExecucao(nome_processo="RPA_Logger")
 
     # Validação da planilha
     validator = PlanilhaValidator(
-        r"C:\ProjetoFinalCompass\Cadastro de Clientes no Sistema Challenge e Cotação de Novos Pedidos\Processar\Grupo 5.xlsx",
+        # r"C:\ProjetoFinalCompass\Cadastro de Clientes no Sistema Challenge e Cotação de Novos Pedidos\Processar\Grupo 5.xlsx",
+        r"C:\projetoLabEngSoftware\Cadastro de Clientes no Sistema Challenge e Cotação de Novos Pedidos\Processar\Grupo 5.xlsx",
         logger,
     )
     dados_validos = validator.ler_e_validar()
+    interface.upgrade_bar('Dados validados...', 5)
 
     # Consulta API
     api = BrasilAPI(logger)
     saida = [registro | api.consultar(registro["CNPJ"]) for registro in dados_validos]
+    interface.upgrade_bar('Brasil API consultada...', 10)
 
     # Planilha Final
     planilha = PlanilhaFinal(saida, logger)
     df = planilha.gerar("saida_final.xlsx")
+    interface.upgrade_bar('Planilha final constuída...', 5)
 
-    rpaBot = RPAChallenge(webbot)
-    df = rpaBot.processarDados(planilha.to_dataframe())
+    # rpaBot = RPAChallenge(webbot)
+    # df = rpaBot.processarDados(planilha.to_dataframe())
 
-    try:
-        webbot.stop_browser()
-    except:
-        pass
+    # try:
+    #     webbot.stop_browser()
+    # except:
+    #     pass
 
     webbot.start_browser()
     webbot.browse("https://www2.correios.com.br/sistemas/precosPrazos/")
@@ -173,15 +181,25 @@ def main():
     df.to_excel("saida_final.xlsx", index=False)
     print("Planilha atualizada com as cotações dos Correios.")
 
+    interface.upgrade_bar('Dados Correios registrados...', 30)
+
+    try:
+        webbot.stop_browser()
+    except:
+        print("Navegador já estava fechado, ignorando...")
+
     # Cotação Jadlog
     executar_simulacao(
         caminho_excel="saida_final.xlsx",
         saida_excel="saida_final.xlsx",
-        driver_path=r"C:\ProjetoFinalCompass\resources\chromedriver-win64\chromedriver.exe",
+        # driver_path=r"C:\ProjetoFinalCompass\resources\chromedriver-win64\chromedriver.exe",
+        driver_path=r"C:\projetoLabEngSoftware\resources\chromedriver-win64\chromedriver.exe",
         headless=False,
     )
 
     print("Cotação Jadlog finalizada e planilha atualizada.")
+
+    interface.upgrade_bar('Dados JadLog registrados...', 30)
 
     df = pd.read_excel("saida_final.xlsx", dtype={"CNPJ": str})
 
@@ -192,11 +210,15 @@ def main():
 
     df["STATUS"] = df.apply(ajustar_status, axis=1)
 
+    interface.upgrade_bar('Células vazias identificadas...', 5)
+
     # Salvar antes da formatação
     df.to_excel("saida_final.xlsx", index=False)
 
     # Aplicar formatação final
     formatar_planilha("saida_final.xlsx")
+
+    interface.upgrade_bar('Planilha formatada...', 5)
 
     try:
         webbot.stop_browser()
@@ -204,15 +226,21 @@ def main():
         print("Navegador já estava fechado, ignorando...")
 
     webbot.wait(3000)
+
+    interface.upgrade_bar('Enviando e-mail...', 0)
     
     # Enviar e-mail com anexo
     # ==========================================
     enviar_email_app_password()
 
+    interface.upgrade_bar('Concluíndo...', 10)
 
     def not_found(label):
         print(f"Element not found: {label}")
+    
+    interface.root.destroy()
 
 
 if __name__ == "__main__":
-    main()
+    threading.Thread(target=main, daemon=True).start()
+    interface.start()
